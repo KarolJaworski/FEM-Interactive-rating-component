@@ -9,7 +9,7 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 
 ### Links
 
-- Live Site URL: [https://karoljaworski.github.io/FEM-Results-summary-component/](https://karoljaworski.github.io/FEM-Interactive-rating-component/)
+- Live Site URL: [https://karoljaworski.github.io/FEM-Interactive-rating-component/](https://karoljaworski.github.io/FEM-Interactive-rating-component/)
 
 ### Built with
 
