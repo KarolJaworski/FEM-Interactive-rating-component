@@ -4,8 +4,8 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 
 ### Screenshot
 
-![](./assets/images/irc1-ss.png)
-![](./assets/images/irc2-ss.png)
+![](./images/irc1-ss.png)
+![](./images/irc2-ss.png)
 
 ### Links
 
